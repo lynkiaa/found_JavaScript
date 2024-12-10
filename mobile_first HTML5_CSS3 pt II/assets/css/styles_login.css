@@ -52,7 +52,7 @@ section#login {
 
 section#login>div#imagem {
     display: block;
-    background: #000000 url(/assets/hellokitty.png) no-repeat;
+    background: #000000 url(/mobile_first\ HTML5_CSS3\ pt\ II/assets/hellokitty.png) no-repeat;
     background-size: cover;
     background-position: left center;
     height: 200px;
@@ -60,13 +60,13 @@ section#login>div#imagem {
 
 section#login>div#formulario {
     display: block;
-    padding: 34px;
+    padding: 20px;
 }
 
 div#formulario>h1 {
     text-align: center;
     margin-bottom: 17px;
-    font-size: 40px;
+    font-size: 10px;
 }
 
 div#formlario>p {
@@ -172,7 +172,7 @@ font-size: 1.8em;
         float: left;
         width: 30%;
         height: 100%;
-        background: black url(/assets/hellokitty.png) no-repeat;
+        background: black url(/mobile_first\ HTML5_CSS3\ pt\ II/assets/hellokitty.png) no-repeat;
         background-size: cover;
         background-position: right bottom;
 
@@ -202,7 +202,7 @@ font-size: 1.8em;
         float: right;
         width: 50%;
         height: 100%;
-        background: #5d00ce url(/assets/hellokitty.png) no-repeat;
+        background: #5d00ce url(/mobile_first\ HTML5_CSS3\ pt\ II/assets/hellokitty.png) no-repeat;
         background-size: cover;
         background-position: right center;
         /*  */
